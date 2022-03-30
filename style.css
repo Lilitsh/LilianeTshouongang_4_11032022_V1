@@ -1091,8 +1091,8 @@ h4 {
   width: 350px;
 }
 .col-sm-3 {
-  margin-right: 100px;
-  margin-left: 70px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
 /*
 .fa-twitter:hover {
